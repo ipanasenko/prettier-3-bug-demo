@@ -1,0 +1,12 @@
+{
+  "name": "prettier-3-bug-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ipanasenko/prettier-3-bug-demo",
+  "author": "Illia Panasenko <hottdogg2008@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.6.3",
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}
