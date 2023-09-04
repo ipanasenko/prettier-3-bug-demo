@@ -8,3 +8,6 @@
 - checkout commit `prettier does not work`
 - run `yarn`
 - run `npx prettier --check index.js` to verify that it does not work
+- run `rm node_modules/.bin/prettier`
+- run `yarn`
+- run `npx prettier --check index.js` to verify that it works
